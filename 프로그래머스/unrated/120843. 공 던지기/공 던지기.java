@@ -10,9 +10,6 @@ class Solution {
         index %= numbers.length;
         answer = numbers[index];
 
-         
-        answer = numbers[index];
-
         return answer;
     }
 }
